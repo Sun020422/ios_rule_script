@@ -57,5 +57,6 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
-DOMAIN-KEYWORD,odysseyplus
+DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,tanhuatv.site
 PROCESS-NAME,com.mb.android
