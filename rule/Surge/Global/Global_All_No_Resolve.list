@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-28 02:08:18
+# UPDATED: 2025-11-02 02:07:49
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31974
+# DOMAIN-SUFFIX: 31980
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32287
+# TOTAL: 32293
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -6371,6 +6371,7 @@ DOMAIN-SUFFIX,deed.ac.uk
 DOMAIN-SUFFIX,deeper.com
 DOMAIN-SUFFIX,deepfake-porn.com
 DOMAIN-SUFFIX,deepfakeporn.net
+DOMAIN-SUFFIX,deepflood.com
 DOMAIN-SUFFIX,deepfreeze.co.uk
 DOMAIN-SUFFIX,deepfreeze.com
 DOMAIN-SUFFIX,deepfreeze.com.br
@@ -6958,6 +6959,7 @@ DOMAIN-SUFFIX,dleris.best
 DOMAIN-SUFFIX,dlfacebook.com
 DOMAIN-SUFFIX,dlhe.ac.uk
 DOMAIN-SUFFIX,dlib.eastview.com
+DOMAIN-SUFFIX,dln1.ncdn.ec
 DOMAIN-SUFFIX,dls.ac.uk
 DOMAIN-SUFFIX,dlsite.com.tw
 DOMAIN-SUFFIX,dlsitenews.com
@@ -13068,6 +13070,7 @@ DOMAIN-SUFFIX,johren.net
 DOMAIN-SUFFIX,joiasmr.com
 DOMAIN-SUFFIX,joinmaidez.com
 DOMAIN-SUFFIX,joinside.org
+DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joinup.ac.uk
 DOMAIN-SUFFIX,jokerlu-go.buzz
 DOMAIN-SUFFIX,jokerlu.asia
@@ -17145,6 +17148,8 @@ DOMAIN-SUFFIX,officialheadphone.com
 DOMAIN-SUFFIX,offresspecialesbmw.ca
 DOMAIN-SUFFIX,offrezdesipods.com
 DOMAIN-SUFFIX,offshorerenewables.ac.uk
+DOMAIN-SUFFIX,offworldindustries.com
+DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,ofs.ac.uk
 DOMAIN-SUFFIX,ogakikyoritsu.co.jp
 DOMAIN-SUFFIX,ogameblog.com
@@ -24727,6 +24732,7 @@ DOMAIN-SUFFIX,xsela.cc
 DOMAIN-SUFFIX,xshaker.net
 DOMAIN-SUFFIX,xshr.online
 DOMAIN-SUFFIX,xsijishe.com
+DOMAIN-SUFFIX,xsijishe.net
 DOMAIN-SUFFIX,xslist.org
 DOMAIN-SUFFIX,xsrxpwvg.com
 DOMAIN-SUFFIX,xstas.biz
